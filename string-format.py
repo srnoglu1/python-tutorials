@@ -6,8 +6,7 @@ memleketi = "Kocaeli"
 tanitim = ("Benim adım " + isim + " " + soyisim + " yaşım " + str(yası)+ " memleketim " + memleketi)
 print(tanitim)
 
----
-
+####
 
 isim = "Emirhan"
 soyisim = "Sirinoglu"
