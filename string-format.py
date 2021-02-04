@@ -1,15 +1,15 @@
-isim = "Emirhan"
-soyisim = "ŞİRİNOĞLU"
-yası = 22
-memleketi = "Kocaeli"
+name = "Emirhan"
+surnamme = "ŞİRİNOĞLU"
+age = 22
+homecity = "Kocaeli"
 
-tanitim = ("Benim adım " + isim + " " + soyisim + " yaşım " + str(yası)+ " memleketim " + memleketi)
-print(tanitim)
+promotion = ("Benim adım " + name + " " + surname + " yaşım " + str(age)+ " memleketim " + homecity)
+print(promotion)
 
 ####
 
-isim = "Emirhan"
-soyisim = "Sirinoglu"
-print("Benim ismin {}" .format(isim,soyisim))
+name = "Emirhan"
+surnamme = "Sirinoglu"
+print("Benim ismin {}" .format(name,surnamme))
 
-print("benim ismim {i} {s}" .format(i = isim,s = soyisim))
+print("benim ismim {i} {s}" .format(n = name,s = surnamme))
