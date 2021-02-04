@@ -1,5 +1,5 @@
 name = "Emirhan"
-surnamme = "ŞİRİNOĞLU"
+surname = "ŞİRİNOĞLU"
 age = 22
 homecity = "Kocaeli"
 
@@ -9,7 +9,7 @@ print(promotion)
 ####
 
 name = "Emirhan"
-surnamme = "Sirinoglu"
-print("Benim ismin {}" .format(name,surnamme))
+surname = "Sirinoglu"
+print("Benim ismin {}" .format(name,surname))
 
-print("benim ismim {i} {s}" .format(n = name,s = surnamme))
+print("benim ismim {i} {s}" .format(n = name,s = surname))
