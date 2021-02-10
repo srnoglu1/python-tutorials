@@ -4,4 +4,5 @@
  Ispanak = 4
  Portakal = 9
  Lahana = 3
- print("Toplam Tutar: ", Muz+Elma+Ispanak+Portakal+Lahana)
+ ToplamTutar(Muz+Elma+Ispanak+Portakal+Lahana)
+  print(ToplamTutar)
